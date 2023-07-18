@@ -1,7 +1,8 @@
 const mongoose = require('mongoose');
 // mongoose.set('strictQuery',true);
 // const dotenv = require('.env');
-const DB = 'mongodb://localhost:27017';
+// const DB = 'mongodb://localhost:27017';
+const DB = 'mongodb+srv://keerthy:12345@atlascluster.ytzwqjv.mongodb.net/';
 
 // dotenv.config({ path: 'config/.env' });
 
