@@ -1,7 +1,8 @@
 const mongoose = require('mongoose');
 // mongoose.set('strictQuery',true);
 // const dotenv = require('.env');
-const DB = 'mongodb://0.0.0.0:27017/';
+const DB = 'mongodb://localhost:27017';
+
 // dotenv.config({ path: 'config/.env' });
 
 //connecting mongoose with database
