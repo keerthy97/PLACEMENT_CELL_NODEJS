@@ -1,6 +1,6 @@
 # Team Career Camp - Placement - Cell
 
-This web application is designed for Team Career Camp to maintain a database of student interviews. It allows employees to input student details, interview information, and results, and provides the functionality to download the data in CSV format.
+This web application is designed for Team Career Camp for Coding Ninjas to maintain a database of student interviews. It allows employees to input student details, interview information, and results, and provides the functionality to download the data in CSV format.
 
 ## Tech Stack
 
@@ -49,10 +49,10 @@ To run this project on your local system, follow these steps:
 A csv file is downloaded in the folder report as `data.csv` which contains the student details with all the placement information
 ## Live Demo
 
-You can find the live demo of this project on GitHub:
+You can find the live demo of this project on GitHub and with the hosted website link:
 
-[GitHub Repository](https://github.com/keerthy97/PLACEMENT_CELL_NODEJS)
-
+# [GitHub Repository](https://github.com/keerthy97/PLACEMENT_CELL_NODEJ)
+# [Hosted Link](https://placement-cell-tlid.onrender.com/users/signin)
 
 ## About
 
