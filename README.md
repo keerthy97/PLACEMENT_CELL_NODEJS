@@ -1,4 +1,4 @@
-# Team Career Camp - Student Interview Database
+# Team Career Camp - Placement - Cell
 
 This web application is designed for Team Career Camp to maintain a database of student interviews. It allows employees to input student details, interview information, and results, and provides the functionality to download the data in CSV format.
 
