@@ -35,12 +35,10 @@ To run this project on your local system, follow these steps:
 3. Open a terminal and navigate to the project directory.
 4. Run the following command to install the required dependencies:
 
-```bash
-npm install
-Run `npm install` to install required dependencies
-
-Start the server using the following command:
--npm start
+  Run `npm install` to install required dependencies
+  Start the server using the following command:
+  -npm start
+  
 ## Features
 
 - Employee Sign Up and Sign In with authentication using Passport.js.
