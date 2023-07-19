@@ -44,7 +44,6 @@ To run this project on your local system, follow these steps:
 - Add new students and view the list of students.
 - Create interviews, allocate students to interviews, and mark result status.
 - Download a complete CSV of all the data with the specified columns.
-- Bonus Feature: External Jobs List, fetching real available jobs in India for React and Node.js from open APIs.
 ## Report 
 A csv file is downloaded in the folder report as `data.csv` which contains the student details with all the placement information
 ## Live Demo
