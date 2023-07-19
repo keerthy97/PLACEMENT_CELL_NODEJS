@@ -62,20 +62,20 @@ I hope this application proves to be a useful tool for maintaining student inter
 ## Screenshots
 
 - Sign Up
-  ![Sign-Up](./images/signup.PNG)
+  ![Sign-Up](./images/sign_up_pagePNG)
 
 - Sign In
-  ![Sign-In](./images/login.PNG)
+  ![Sign-In](./images/sign_in_page.PNG)
 
 - Student Page
-  ![Student-Page](./images/studentlist.PNG)
+  ![Student-Page](./images/studentlist_page.PNG)
 
 - Interview Page
-  ![Interview-Page](./images/companylist.PNG)
+  ![Interview-Page](./images/companylist_page.PNG)
 
 - Add student
-  ![Add-Student](./images/AddStudent.PNG)
+  ![Add-Student](./images/add_student_page.PNG)
 
 - Schedule Interview
-  ![Interview](./images/InterviewSchedule.PNG)
+  ![Interview](./images/InterviewSchedule_page.PNG)
 
