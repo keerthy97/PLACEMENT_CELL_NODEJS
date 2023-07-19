@@ -50,13 +50,12 @@ To run this project on your local system, follow these steps:
 
 You can find the live demo of this project on GitHub:
 
-[GitHub Repository](Link_Git_Hub_Link)
+[GitHub Repository](https://github.com/keerthy97/PLACEMENT_CELL_NODEJS)
 
-Please note that this application is for internal use by Team Career Camp only.
 
 ## About
 
-This web application was developed by [Your Name] as part of a project for Team Career Camp. For any inquiries or support, feel free to contact [Your Email Address].
+This web application was developed by [Keerthy] as part of a project for Coding Ninjas.
 
 I hope this application proves to be a useful tool for maintaining student interview records. Happy interviewing!
 
