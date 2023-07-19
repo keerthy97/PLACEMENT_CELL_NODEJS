@@ -36,8 +36,7 @@ To run this project on your local system, follow these steps:
 4. Run the following command to install the required dependencies:
 
   Run `npm install` to install required dependencies
-  Start the server using the following command:
-  -npm start
+  Start the server using the following command `npm start`
   
 ## Features
 
